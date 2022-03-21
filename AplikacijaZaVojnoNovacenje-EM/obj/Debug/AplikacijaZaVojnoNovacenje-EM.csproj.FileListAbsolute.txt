@@ -1,0 +1,15 @@
+C:\Users\ucenik\source\repos\AplikacijaZaVojnoNovacenje-EM\AplikacijaZaVojnoNovacenje-EM\bin\Debug\AplikacijaZaVojnoNovacenje-EM.exe.config
+C:\Users\ucenik\source\repos\AplikacijaZaVojnoNovacenje-EM\AplikacijaZaVojnoNovacenje-EM\bin\Debug\AplikacijaZaVojnoNovacenje-EM.exe
+C:\Users\ucenik\source\repos\AplikacijaZaVojnoNovacenje-EM\AplikacijaZaVojnoNovacenje-EM\bin\Debug\AplikacijaZaVojnoNovacenje-EM.pdb
+C:\Users\ucenik\source\repos\AplikacijaZaVojnoNovacenje-EM\AplikacijaZaVojnoNovacenje-EM\obj\Debug\AplikacijaZaVojnoNovacenje-EM.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\AplikacijaZaVojnoNovacenje-EM\AplikacijaZaVojnoNovacenje-EM\obj\Debug\AplikacijaZaVojnoNovacenje-EM.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\AplikacijaZaVojnoNovacenje-EM\AplikacijaZaVojnoNovacenje-EM\obj\Debug\AplikacijaZaVojnoNovacenje_EM.Form1.resources
+C:\Users\ucenik\source\repos\AplikacijaZaVojnoNovacenje-EM\AplikacijaZaVojnoNovacenje-EM\obj\Debug\AplikacijaZaVojnoNovacenje_EM.OtpustNovaka.resources
+C:\Users\ucenik\source\repos\AplikacijaZaVojnoNovacenje-EM\AplikacijaZaVojnoNovacenje-EM\obj\Debug\AplikacijaZaVojnoNovacenje_EM.PregledNovaka.resources
+C:\Users\ucenik\source\repos\AplikacijaZaVojnoNovacenje-EM\AplikacijaZaVojnoNovacenje-EM\obj\Debug\AplikacijaZaVojnoNovacenje_EM.Properties.Resources.resources
+C:\Users\ucenik\source\repos\AplikacijaZaVojnoNovacenje-EM\AplikacijaZaVojnoNovacenje-EM\obj\Debug\AplikacijaZaVojnoNovacenje_EM.StatusNovaka.resources
+C:\Users\ucenik\source\repos\AplikacijaZaVojnoNovacenje-EM\AplikacijaZaVojnoNovacenje-EM\obj\Debug\AplikacijaZaVojnoNovacenje_EM.UnosNovaka.resources
+C:\Users\ucenik\source\repos\AplikacijaZaVojnoNovacenje-EM\AplikacijaZaVojnoNovacenje-EM\obj\Debug\AplikacijaZaVojnoNovacenje-EM.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\AplikacijaZaVojnoNovacenje-EM\AplikacijaZaVojnoNovacenje-EM\obj\Debug\AplikacijaZaVojnoNovacenje-EM.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\AplikacijaZaVojnoNovacenje-EM\AplikacijaZaVojnoNovacenje-EM\obj\Debug\AplikacijaZaVojnoNovacenje-EM.exe
+C:\Users\ucenik\source\repos\AplikacijaZaVojnoNovacenje-EM\AplikacijaZaVojnoNovacenje-EM\obj\Debug\AplikacijaZaVojnoNovacenje-EM.pdb
